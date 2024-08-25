@@ -63,3 +63,6 @@ logs/
 
 #venv ausblenden
 venv/
+
+#csv dateien ausblenden
+*.csv
