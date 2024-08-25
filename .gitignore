@@ -66,3 +66,6 @@ venv/
 
 #csv dateien ausblenden
 *.csv
+
+#todo liste ausblenden
+todo.txt
